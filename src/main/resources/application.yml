@@ -8,3 +8,4 @@ spring:
           uri: https://github.com/AlexMitra/ms-fundamentals-config.git
           search-paths: configurations
           default-label: main
+          skip-ssl-validation: true
